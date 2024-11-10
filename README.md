@@ -24,6 +24,9 @@ python server.py
 License
 This project is open-source and available under the MIT License.
 
+
+
+
 Chat Application
 This is a simple real-time chat application using WebSockets for message exchange between multiple clients. The application consists of two files:
 
