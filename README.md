@@ -21,8 +21,7 @@ pip install websockets
 python server.py
 Откройте файл client.html в вашем веб-браузере. Вы можете открыть несколько вкладок с этим файлом, чтобы создать несколько клиентов.
 Начните общение — вводите сообщения и отправляйте их. Все подключённые клиенты будут получать сообщения.
-License
-This project is open-source and available under the MIT License.
+
 
 
 
@@ -48,5 +47,4 @@ Run the server by executing:
 python server.py
 Open the client.html file in your web browser. You can open multiple tabs with this file to simulate multiple clients.
 Start chatting — type messages and send them. All connected clients will receive the messages.
-License
-This project is open-source and available under the MIT License.
+
